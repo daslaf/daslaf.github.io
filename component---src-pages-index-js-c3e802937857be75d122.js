@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{225:function(n,a,e){"use strict";e.r(a);var l=e(1),s=e.n(l),i=e(121);e(261),a.default=function(){return s.a.createElement(i.a,null,s.a.createElement("div",null,s.a.createElement("p",null,"Hola, mi nombre es Osman. Bienvenido a mi asldkjaslkdjalskd alskda soiq wjnbczociv sdo cknqw du cknqsda ipalsd n.")))}},261:function(n,a,e){}}]);
+//# sourceMappingURL=component---src-pages-index-js-c3e802937857be75d122.js.map
